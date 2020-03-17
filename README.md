@@ -1,2 +1,2 @@
 # CSharp
-C# Scripts e aluas
+C# Scripts e aulas
