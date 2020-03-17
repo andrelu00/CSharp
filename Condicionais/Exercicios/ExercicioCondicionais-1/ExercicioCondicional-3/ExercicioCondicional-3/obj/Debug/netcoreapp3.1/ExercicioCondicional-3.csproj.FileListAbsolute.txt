@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\bin\Debug\netcoreapp3.1\ExercicioCondicional-3.exe
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\bin\Debug\netcoreapp3.1\ExercicioCondicional-3.deps.json
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\bin\Debug\netcoreapp3.1\ExercicioCondicional-3.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\bin\Debug\netcoreapp3.1\ExercicioCondicional-3.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\bin\Debug\netcoreapp3.1\ExercicioCondicional-3.dll
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\bin\Debug\netcoreapp3.1\ExercicioCondicional-3.pdb
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\obj\Debug\netcoreapp3.1\ExercicioCondicional-3.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\obj\Debug\netcoreapp3.1\ExercicioCondicional-3.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\obj\Debug\netcoreapp3.1\ExercicioCondicional-3.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\obj\Debug\netcoreapp3.1\ExercicioCondicional-3.dll
+C:\Users\andre\Desktop\André\C#\Condicionais\Exercicios\ExercicioCondicional-3\ExercicioCondicional-3\obj\Debug\netcoreapp3.1\ExercicioCondicional-3.pdb
