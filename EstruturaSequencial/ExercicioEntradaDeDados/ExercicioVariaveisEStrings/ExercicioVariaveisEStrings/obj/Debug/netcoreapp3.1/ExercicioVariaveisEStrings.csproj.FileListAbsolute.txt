@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\obj\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\obj\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\obj\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\bin\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.exe
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\bin\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.deps.json
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\bin\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\bin\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\bin\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.dll
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\bin\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.pdb
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\obj\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.dll
+C:\Users\andre\Desktop\André\C#\ExercicioVariaveisEStrings\ExercicioVariaveisEStrings\obj\Debug\netcoreapp3.1\ExercicioVariaveisEStrings.pdb

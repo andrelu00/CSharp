@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.exe
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.deps.json
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.dll
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\bin\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.pdb
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.dll
+C:\Users\andre\Desktop\André\C#\Exercico2EstruturaSequencial\Exercico2EstruturaSequencial\obj\Debug\netcoreapp3.1\Exercico2EstruturaSequencial.pdb
