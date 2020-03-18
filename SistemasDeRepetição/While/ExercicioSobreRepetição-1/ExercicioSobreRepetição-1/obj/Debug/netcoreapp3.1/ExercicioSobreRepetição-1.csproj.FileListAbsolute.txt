@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\bin\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.exe
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\bin\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.deps.json
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\bin\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\bin\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\bin\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.dll
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\bin\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.pdb
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\obj\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\obj\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\obj\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\obj\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.dll
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\While\ExercicioSobreRepetição-1\ExercicioSobreRepetição-1\obj\Debug\netcoreapp3.1\ExercicioSobreRepetição-1.pdb
