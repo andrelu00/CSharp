@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosSobreRepetição-3", "ExerciciosSobreRepetição-3\ExerciciosSobreRepetição-3.csproj", "{B42AECEF-7091-4E4C-BE49-483213ED71C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B42AECEF-7091-4E4C-BE49-483213ED71C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42AECEF-7091-4E4C-BE49-483213ED71C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42AECEF-7091-4E4C-BE49-483213ED71C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42AECEF-7091-4E4C-BE49-483213ED71C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB79183E-BBB7-4ED5-8A83-1D89A6BCFFC8}
+	EndGlobalSection
+EndGlobal

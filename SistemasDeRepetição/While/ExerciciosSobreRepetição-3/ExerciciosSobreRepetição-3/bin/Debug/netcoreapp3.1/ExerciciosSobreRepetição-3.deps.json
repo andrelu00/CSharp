@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExerciciosSobreRepetição-3/1.0.0": {
+        "runtime": {
+          "ExerciciosSobreRepetição-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciciosSobreRepetição-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
