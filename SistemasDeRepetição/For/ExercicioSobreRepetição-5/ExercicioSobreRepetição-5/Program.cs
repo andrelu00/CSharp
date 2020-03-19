@@ -19,7 +19,7 @@ namespace ExercicioSobreRepetição_5
                 
             }
 
-            Console.WriteLine("O factório desse número é: "+ fator);
+            Console.WriteLine("O fatorial desse número é: "+ fator);
 
         }
     }
