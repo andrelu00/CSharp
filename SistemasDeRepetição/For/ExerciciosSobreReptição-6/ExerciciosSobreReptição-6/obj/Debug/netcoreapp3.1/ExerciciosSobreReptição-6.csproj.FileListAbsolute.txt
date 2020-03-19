@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\bin\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.exe
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\bin\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.deps.json
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\bin\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\bin\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\bin\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.dll
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\bin\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.pdb
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\obj\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\obj\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\obj\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\obj\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.dll
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreReptição-6\ExerciciosSobreReptição-6\obj\Debug\netcoreapp3.1\ExerciciosSobreReptição-6.pdb
