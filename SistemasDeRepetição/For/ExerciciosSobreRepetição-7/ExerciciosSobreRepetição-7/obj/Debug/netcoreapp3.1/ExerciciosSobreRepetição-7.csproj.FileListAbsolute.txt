@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\bin\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.exe
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\bin\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.deps.json
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\bin\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\bin\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\bin\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.dll
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\bin\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.pdb
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\obj\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\obj\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\obj\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\obj\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.dll
+C:\Users\andre\Desktop\André\C#\SistemasDeRepetição\For\ExerciciosSobreRepetição-7\ExerciciosSobreRepetição-7\obj\Debug\netcoreapp3.1\ExerciciosSobreRepetição-7.pdb
