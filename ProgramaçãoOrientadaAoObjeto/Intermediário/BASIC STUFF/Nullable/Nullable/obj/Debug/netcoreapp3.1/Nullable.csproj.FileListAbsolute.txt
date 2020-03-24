@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
