@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.exe
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.deps.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.dll
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.pdb
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\obj\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\obj\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\obj\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\obj\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.dll
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixacao-Banco\ExercicioDeFixacao-Banco\obj\Debug\netcoreapp3.1\ExercicioDeFixacao-Banco.pdb
