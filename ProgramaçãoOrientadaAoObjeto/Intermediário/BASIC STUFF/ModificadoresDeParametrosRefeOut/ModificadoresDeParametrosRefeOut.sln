@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadoresDeParametrosRefeOut", "ModificadoresDeParametrosRefeOut\ModificadoresDeParametrosRefeOut.csproj", "{2B30A6FC-E0B1-4265-A2D9-5A54234B9492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B30A6FC-E0B1-4265-A2D9-5A54234B9492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B30A6FC-E0B1-4265-A2D9-5A54234B9492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B30A6FC-E0B1-4265-A2D9-5A54234B9492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B30A6FC-E0B1-4265-A2D9-5A54234B9492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6786B54-A990-40F3-B3AF-0409C239F6F7}
+	EndGlobalSection
+EndGlobal
