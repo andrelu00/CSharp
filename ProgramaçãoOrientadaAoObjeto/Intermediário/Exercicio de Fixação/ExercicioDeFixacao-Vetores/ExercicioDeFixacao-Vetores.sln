@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioDeFixacao-Vetores", "ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores.csproj", "{383AE31B-819F-40E0-B246-82E9F0F41726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383AE31B-819F-40E0-B246-82E9F0F41726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383AE31B-819F-40E0-B246-82E9F0F41726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383AE31B-819F-40E0-B246-82E9F0F41726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383AE31B-819F-40E0-B246-82E9F0F41726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56BFC826-E8D4-4814-A17F-3422694313B1}
+	EndGlobalSection
+EndGlobal

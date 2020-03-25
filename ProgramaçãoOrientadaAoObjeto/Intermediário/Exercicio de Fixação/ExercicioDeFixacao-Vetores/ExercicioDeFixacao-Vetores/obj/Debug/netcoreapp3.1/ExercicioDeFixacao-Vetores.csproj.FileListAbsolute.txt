@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.exe
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.deps.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.dll
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\bin\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.pdb
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\obj\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\obj\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\obj\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\obj\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.dll
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\ExercicioDeFixacao-Vetores\ExercicioDeFixacao-Vetores\obj\Debug\netcoreapp3.1\ExercicioDeFixacao-Vetores.pdb
