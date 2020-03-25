@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\obj\Debug\netcoreapp3.1\Params.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\obj\Debug\netcoreapp3.1\Params.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\obj\Debug\netcoreapp3.1\Params.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\bin\Debug\netcoreapp3.1\Params.exe
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\bin\Debug\netcoreapp3.1\Params.deps.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\bin\Debug\netcoreapp3.1\Params.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\bin\Debug\netcoreapp3.1\Params.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\bin\Debug\netcoreapp3.1\Params.dll
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\bin\Debug\netcoreapp3.1\Params.pdb
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\obj\Debug\netcoreapp3.1\Params.dll
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Params\Params\obj\Debug\netcoreapp3.1\Params.pdb
