@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\bin\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.exe
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\bin\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.deps.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\bin\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\bin\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\bin\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.dll
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\bin\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.pdb
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\obj\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\obj\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\obj\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\obj\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.dll
+C:\Users\andre\Desktop\André\C#\ProgramaçãoOrientadaAoObjeto\Intermediário\Exercicio de Fixação\ExercicioDeFixação-Listas\ExercicioDeFixação-Listas\obj\Debug\netcoreapp3.1\ExercicioDeFixação-Listas.pdb
