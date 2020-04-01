@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\obj\Debug\netcoreapp3.1\Matrizes-Exemplo.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\obj\Debug\netcoreapp3.1\Matrizes-Exemplo.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\obj\Debug\netcoreapp3.1\Matrizes-Exemplo.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\bin\Debug\netcoreapp3.1\Matrizes-Exemplo.exe
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\bin\Debug\netcoreapp3.1\Matrizes-Exemplo.deps.json
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\bin\Debug\netcoreapp3.1\Matrizes-Exemplo.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\bin\Debug\netcoreapp3.1\Matrizes-Exemplo.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\bin\Debug\netcoreapp3.1\Matrizes-Exemplo.dll
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\bin\Debug\netcoreapp3.1\Matrizes-Exemplo.pdb
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\obj\Debug\netcoreapp3.1\Matrizes-Exemplo.dll
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Matrizes-Exemplo\Matrizes-Exemplo\obj\Debug\netcoreapp3.1\Matrizes-Exemplo.pdb
