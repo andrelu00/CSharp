@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\bin\Debug\netcoreapp3.1\Conjustos.exe
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\bin\Debug\netcoreapp3.1\Conjustos.deps.json
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\bin\Debug\netcoreapp3.1\Conjustos.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\bin\Debug\netcoreapp3.1\Conjustos.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\bin\Debug\netcoreapp3.1\Conjustos.dll
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\bin\Debug\netcoreapp3.1\Conjustos.pdb
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\obj\Debug\netcoreapp3.1\Conjustos.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\obj\Debug\netcoreapp3.1\Conjustos.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\obj\Debug\netcoreapp3.1\Conjustos.dll
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\obj\Debug\netcoreapp3.1\Conjustos.pdb
+C:\Users\andre\Desktop\André\C#\Conteudos\ProgramaçãoOrientadaAoObjeto\Intermediário\BASIC STUFF\Conjustos\Conjustos\obj\Debug\netcoreapp3.1\Conjustos.csprojAssemblyReference.cache
