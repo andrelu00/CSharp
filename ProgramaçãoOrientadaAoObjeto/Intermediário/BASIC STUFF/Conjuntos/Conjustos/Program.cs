@@ -18,6 +18,12 @@ namespace Conjustos
             B.Add(3);
             B.Add(4);
             B.Add(5);
+            
+            
+            Console.WriteLine("Quantidade de elementos em A: {0}",A.Count);
+            Console.WriteLine("Quantidade de elementos em B: {0}",B.Count);
+            
+            Console.WriteLine("---------------------------");
 
             foreach(int x in A) 
             {
