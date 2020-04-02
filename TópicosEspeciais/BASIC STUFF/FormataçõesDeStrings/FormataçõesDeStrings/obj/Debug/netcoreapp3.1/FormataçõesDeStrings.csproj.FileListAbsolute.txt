@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\bin\Debug\netcoreapp3.1\FormataçõesDeStrings.exe
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\bin\Debug\netcoreapp3.1\FormataçõesDeStrings.deps.json
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\bin\Debug\netcoreapp3.1\FormataçõesDeStrings.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\bin\Debug\netcoreapp3.1\FormataçõesDeStrings.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\bin\Debug\netcoreapp3.1\FormataçõesDeStrings.dll
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\bin\Debug\netcoreapp3.1\FormataçõesDeStrings.pdb
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\obj\Debug\netcoreapp3.1\FormataçõesDeStrings.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\obj\Debug\netcoreapp3.1\FormataçõesDeStrings.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\obj\Debug\netcoreapp3.1\FormataçõesDeStrings.dll
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\obj\Debug\netcoreapp3.1\FormataçõesDeStrings.pdb
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\FormataçõesDeStrings\FormataçõesDeStrings\obj\Debug\netcoreapp3.1\FormataçõesDeStrings.csprojAssemblyReference.cache
