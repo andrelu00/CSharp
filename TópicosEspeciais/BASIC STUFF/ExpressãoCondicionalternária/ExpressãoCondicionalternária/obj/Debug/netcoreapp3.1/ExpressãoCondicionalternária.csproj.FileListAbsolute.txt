@@ -1,0 +1,11 @@
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\bin\Debug\netcoreapp3.1\ExpressãoCondicionalternária.exe
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\bin\Debug\netcoreapp3.1\ExpressãoCondicionalternária.deps.json
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\bin\Debug\netcoreapp3.1\ExpressãoCondicionalternária.runtimeconfig.json
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\bin\Debug\netcoreapp3.1\ExpressãoCondicionalternária.runtimeconfig.dev.json
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\bin\Debug\netcoreapp3.1\ExpressãoCondicionalternária.dll
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\bin\Debug\netcoreapp3.1\ExpressãoCondicionalternária.pdb
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\obj\Debug\netcoreapp3.1\ExpressãoCondicionalternária.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\obj\Debug\netcoreapp3.1\ExpressãoCondicionalternária.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\obj\Debug\netcoreapp3.1\ExpressãoCondicionalternária.AssemblyInfo.cs
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\obj\Debug\netcoreapp3.1\ExpressãoCondicionalternária.dll
+C:\Users\andre\Desktop\André\C#\Conteudos\TópicosEspeciais\BASIC STUFF\ExpressãoCondicionalternária\ExpressãoCondicionalternária\obj\Debug\netcoreapp3.1\ExpressãoCondicionalternária.pdb
